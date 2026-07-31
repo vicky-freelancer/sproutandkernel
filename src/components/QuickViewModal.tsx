@@ -101,7 +101,7 @@ export const QuickViewModal: React.FC<QuickViewModalProps> = ({ product, onClose
               </div>
             </div>
 
-            <h2 className="text-2xl font-bold text-slate-900 font-serif leading-tight">
+            <h2 className="text-2xl font-bold text-red-900 font-serif leading-tight">
               {product.name}
             </h2>
 
