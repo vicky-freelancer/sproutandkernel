@@ -36,15 +36,7 @@ export const Footer: React.FC = () => {
             </div>
           </div>
 
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-emerald-900/80 flex items-center justify-center text-emerald-300 shrink-0">
-              <Truck className="w-5 h-5" />
-            </div>
-            <div>
-              <p className="font-semibold text-xs sm:text-sm text-white">Pan-India Delivery</p>
-              <p className="text-[11px] text-emerald-300/80">Dispatched in 24 hours</p>
-            </div>
-          </div>
+         
 
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-emerald-900/80 flex items-center justify-center text-emerald-300 shrink-0">
