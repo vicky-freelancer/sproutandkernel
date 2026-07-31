@@ -225,7 +225,7 @@ export const ProductDetailPage: React.FC = () => {
                 </div>
               </div>
 
-              <h1 className="text-2xl sm:text-3xl font-bold font-serif text-slate-900 leading-tight">
+              <h1 className="text-2xl sm:text-3xl font-bold font-serif text-red-900 leading-tight">
                 {product.name}
               </h1>
 
