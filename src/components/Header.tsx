@@ -73,7 +73,7 @@ export const Header: React.FC = () => {
             {/* Logo */}
             <Link to="/" className="flex items-center gap-2.5 group">
               <img 
-                src="/logo.svg" 
+                src="/SK Logo.png" 
                 alt="SPROUT & KERNEL Logo" 
                 className="w-10 h-10 rounded-xl shadow-md group-hover:scale-105 transition-transform object-cover"
               />
