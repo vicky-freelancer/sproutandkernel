@@ -9,9 +9,8 @@ export const PRODUCTS: Product[] = [
     name: "முருங்கை சூப் பொடி (Moringa Soup Powder)",
     slug: "moringa-soup-powder",
     category: "Leaf-Based",
-    image: heroImg,
+    image:  "/Moringa.jpeg",
     gallery: [
-      heroImg,
       "/Moringa.jpeg"
     ],
     shortDescription: "இரும்புச் சத்து, வைட்டமின்கள் மற்றும் ஆன்டி-ஆக்ஸிடண்ட்கள் நிறைந்த இயற்கை முருங்கை சூப் பொடி.",
