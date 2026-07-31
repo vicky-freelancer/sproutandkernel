@@ -12,7 +12,7 @@ export const PRODUCTS: Product[] = [
     image: heroImg,
     gallery: [
       heroImg,
-      "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80"
+      "/Moringa.jpeg"
     ],
     shortDescription: "இரும்புச் சத்து, வைட்டமின்கள் மற்றும் ஆன்டி-ஆக்ஸிடண்ட்கள் நிறைந்த இயற்கை முருங்கை சூப் பொடி.",
     description: "SPROUT & KERNEL வழங்கும் இயற்கை முருங்கை சூப் பொடி. தூய்மையான முறையில் உலர்த்தப்பட்ட இளமுருங்கை இலைகள் மற்றும் சீரகம், மிளகு, மல்லி, இஞ்சி சேர்த்த பாரம்பரிய மூலிகை சூப். உடலின் இரும்புச் சத்தை அதிகரித்து இரத்த சோகையை நீக்கும்.",
@@ -49,9 +49,9 @@ export const PRODUCTS: Product[] = [
     name: "வாழைத்தண்டு சூப் பொடி (Valaithandu Soup Powder)",
     slug: "valaithandu-soup-powder",
     category: "Traditional Mix",
-    image: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80",
+    image: "/Valaithandu.jpeg",
     gallery: [
-      "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80"
+      "/Valaithandu.jpeg"
     ],
     shortDescription: "சிறுநீரகக் கற்களை கரைக்கவும், உடல் எடையை குறைக்கவும் உதவும் இயற்கை வாழைத்தண்டு சூப்.",
     description: "நார்ச்சத்து நிறைந்த வாழைத்தண்டின் முழுமையான நன்மைகளுடன் தயாரிக்கப்பட்டது. சிறுநீரகத்தில் தங்கும் நச்சுகளை வெளியேற்றி (Detoxification) சிறுநீரகப் பாதையை சுத்தமாக வைத்திருக்க உதவும்.",
@@ -86,9 +86,9 @@ export const PRODUCTS: Product[] = [
     name: "முடக்கத்தான் சூப் பொடி (Mudakathan Soup Powder)",
     slug: "mudakathan-soup-powder",
     category: "Traditional Mix",
-    image: "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?auto=format&fit=crop&w=800&q=80",
+    image: "Mudakathan.jpeg",
     gallery: [
-      "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?auto=format&fit=crop&w=800&q=80"
+      "Mudakathan.jpeg"
     ],
     shortDescription: "மூட்டு வலி, வீக்கம் மற்றும் வாதப் பிரச்சனைகளுக்கு நிவாரணம் தரும்பாரம்பரிய மூலிகை.",
     description: "பாரம்பரிய சித்த மருத்துவத்தில் மூட்டு ஆரோக்கியத்திற்கு முடக்கத்தான் கீரை முதன்மையானது. மூட்டுகளில் தங்கும் யூரிக் அமிலத்தை கரைத்து வலியிலிருந்து விடுதலை அளிக்கும்.",
@@ -123,9 +123,9 @@ export const PRODUCTS: Product[] = [
     name: "பிரண்டை சூப் பொடி (Pirandai / Perandai Soup Powder)",
     slug: "pirandai-soup-powder",
     category: "Traditional Mix",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80",
+    image: "/Perandai.jpeg",
     gallery: [
-      "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80"
+      "/Perandai.jpeg"
     ],
     shortDescription: "செரிமானத்தை தூண்டவும், எலும்புகளுக்கு உறுதியளிக்கவும் உதவும் பிரண்டை மூலிகை சூப்.",
     description: "எலும்புகளை வஜ்ரம் போல் உறுதியாக்கும் பிரண்டை மூலிகை. உடைந்த எலும்புகள் எளிதில் கூடவும், பசியின்மையை போக்கி நல்ல செரிமான சக்தியைத் தரவும் உதவுகிறது.",
@@ -159,9 +159,9 @@ export const PRODUCTS: Product[] = [
     name: "வல்லாரை சூப் பொடி (Vallarai Memory Soup Powder)",
     slug: "vallarai-soup-powder",
     category: "Leaf-Based",
-    image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80",
+    image: "/Vallarai.jpeg",
     gallery: [
-      "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+      "/Vallarai.jpeg"
     ],
     shortDescription: "ஞாபக சக்தி, மூளையின் கூர்மை மற்றும் கவனிப்புத் திறனை அதிகரிக்கும் அற்புத வல்லாரை சூப்.",
     description: "வளரும் குழந்தைகளுக்கு தினமும் கொடுக்க வேண்டிய இயற்கை நினைவாற்றல் மூலிகை. மூளையின் நரம்புகளை தூண்டி சுறுசுறுப்புடன் வைக்கும்.",
@@ -195,9 +195,9 @@ export const PRODUCTS: Product[] = [
     name: "முடவாட்டுக்கால் சூப் பொடி (Mudavattukkal Soup Powder)",
     slug: "mudavattukkal-soup-powder",
     category: "Traditional Mix",
-    image: heroImg,
+    image: "/Mudavatukal.jpeg",
     gallery: [
-      heroImg
+      "/Mudavatukal.jpeg"
     ],
     shortDescription: "சைவ 'ஆட்டுக்கால் சூப்' - முழங்கால் வலி மற்றும் எலும்பு பலத்திற்கு மிகவும் புகழ்பெற்றது.",
     description: "மலைப் பகுதிகளில் வளரும் அபூர்வ கிழங்கு மூலிகையான முடவாட்டுக்கால். ஆட்டுக்கால் சூப்பிற்கு நிகரான சுவையும் மருத்துவக் குணமும் கொண்ட 100% சைவ சூப் வகை.",
@@ -269,9 +269,9 @@ export const PRODUCTS: Product[] = [
     name: "தூதுவளை சூப் பொடி (Thuthuvalai Soup Powder)",
     slug: "thuthuvalai-soup-powder",
     category: "Spices & Immunity",
-    image: "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=800&q=80",
+    image: "/Thudhuvalai.jpeg",
     gallery: [
-      "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?auto=format&fit=crop&w=800&q=80"
+      "/Thudhuvalai.jpeg"
     ],
     shortDescription: "சளி, இருமல் நீங்கவும் மற்றும் ஒட்டுமொத்த சுவாச ஆரோக்கியத்தை மேம்படுத்தவும் சிறந்தது.",
     description: "நுரையீரலை பாதுகாக்கும் இயற்கை காயகற்ப மூலிகை தூதுவளை. நெஞ்சுச்சளி, இருமல் மற்றும் தொண்டை கரகரப்பை உடனடியாக சரிசெய்யும்.",
