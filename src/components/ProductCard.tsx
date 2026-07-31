@@ -53,7 +53,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product, onQuickView }
   const fallbackImage = "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80";
 
   return (
-    <div className="group bg-white rounded-2xl border border-emerald-100/80 shadow-xs hover:shadow-xl hover:border-emerald-300 transition-all duration-300 flex flex-col justify-between overflow-hidden relative">
+    <div className="group bg-white rounded-2xl border-4 border-emerald-700 shadow-md hover:shadow-2xl transition-shadow duration-300 flex flex-col justify-between overflow-hidden relative">
       
       {/* Card Header & Image */}
       <div>
