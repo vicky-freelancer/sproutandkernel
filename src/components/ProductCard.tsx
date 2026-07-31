@@ -116,7 +116,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product, onQuickView }
 
           {/* Title */}
           <Link to={`/product/${product.slug}`} className="block group-hover:text-emerald-700 transition-colors">
-            <h3 className="font-semibold text-slate-900 text-base leading-snug line-clamp-1 font-serif">
+            <h3 className="font-bold text-red-900 text-base leading-snug line-clamp-1 font-serif">
               {product.name}
             </h3>
           </Link>
