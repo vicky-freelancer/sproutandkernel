@@ -1,0 +1,6 @@
+{
+  "name": "Herbal Soup Powder Store",
+  "description": "A modern, high-converting Herbal Soup Powder e-commerce store with direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
