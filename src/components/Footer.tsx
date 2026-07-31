@@ -74,7 +74,7 @@ export const Footer: React.FC = () => {
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-2.5">
               <img 
-                src="/logo.svg" 
+                src="/SK Logo.png" 
                 alt="SPROUT & KERNEL Logo" 
                 className="w-9 h-9 rounded-xl object-cover shadow-md"
               />
