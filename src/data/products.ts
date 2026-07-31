@@ -233,9 +233,9 @@ export const PRODUCTS: Product[] = [
     name: "ஆவாரம்பூ சூப் பொடி (Avarampoo Soup Powder)",
     slug: "avarampoo-soup-powder",
     category: "Spices & Immunity",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+    image: "/Avarampoo.jpeg",
     gallery: [
-      "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80"
+      "/Avarampoo.jpeg"
     ],
     shortDescription: "ரத்த சர்க்கரை அளவை கட்டுப்படுத்தவும், சருமத்திற்கு பொலிவு தரவும் உதவும் பொன்னிற பூ சூப்.",
     description: "'ஆவாரம்பூ பூத்திருக்க சாவாரை கண்டதுண்டோ' என்ற பழமொழிக்கு ஏற்ப, உடலின் சர்க்கரை அளவை சமன் செய்து தோலுக்கு இயற்கை பொலிவைத் தரும் தங்க நிற மூலிகை சூப்.",
